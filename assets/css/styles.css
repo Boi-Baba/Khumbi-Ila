@@ -58,8 +58,8 @@
 
 @font-face {
   font-family: 'Ananda Namaste';
-  src: url('/Khumbi-Ila/assets/fonts/AnandaNamaste.woff2') format('woff2'),
-    url('/Khumbi-Ila/assets/fonts/AnandaNamaste.woff') format('woff');
+  src: url('../fonts/AnandaNamaste.woff2') format('woff2'),
+    url('../fonts/AnandaNamaste.woff') format('woff');
   font-weight: normal;
   font-style: normal;
   font-display: swap;
